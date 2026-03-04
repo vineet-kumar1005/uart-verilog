@@ -1,0 +1,20 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.cache
+*.hw
+*.runs
+*.sim
+*.ip_user_files
+*.xpr
+*.Xil
+
+# simulation temp
+*.wdb
+*.vcd
+*.wlf
+
+# OS
+.DS_Store
+Thumbs.db
