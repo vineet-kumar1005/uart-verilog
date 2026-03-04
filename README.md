@@ -18,7 +18,7 @@ This project implements a UART transmitter and receiver in Verilog.
 
 ## RTL Schematic
 
-![RTL Diagram](docs/rtl_diagram.png)
+![RTL Diagram](docs/rtl-schematic.png)
 
 ## Simulation
 
@@ -34,7 +34,7 @@ AB → AB
 
 ### Simulation Waveform
 
-![Waveform](sim/waveform.png)
+![Waveform](sim/uart-waveform.png)
 
 ## Directory Structure
 
